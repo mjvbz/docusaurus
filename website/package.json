@@ -46,7 +46,7 @@
     "axios": "^0.25.0",
     "clsx": "^1.1.1",
     "color": "^4.0.1",
-    "esbuild-loader": "2.16.0",
+    "esbuild-loader": "2.18.0",
     "netlify-plugin-cache": "^1.0.3",
     "raw-loader": "^4.0.2",
     "react": "^17.0.2",
