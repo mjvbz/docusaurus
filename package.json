@@ -94,7 +94,7 @@
     "lerna": "^4.0.0",
     "lerna-changelog": "^2.2.0",
     "lint-staged": "^12.1.7",
-    "netlify-cli": "^8.15.3",
+    "netlify-cli": "^9.3.0",
     "nodemon": "^2.0.13",
     "prettier": "^2.5.1",
     "react": "^17.0.1",
