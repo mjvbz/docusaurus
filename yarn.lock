@@ -1600,10 +1600,10 @@
     "@types/react" "*"
     prop-types "^15.6.2"
 
-"@docusaurus/responsive-loader@1.5.0":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/responsive-loader/-/responsive-loader-1.5.0.tgz#653a62e08e2c4390eee81506897a2fa10dd9d6a7"
-  integrity sha512-Zg7JNB4hzJCdaWjiJevrAp1Dcejef2QIF0BPfOHbT+yR0KD5043L7PLDl2+r+oU3JTbe7H5xEv1LlXDU7mjdzA==
+"@docusaurus/responsive-loader@1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@docusaurus/responsive-loader/-/responsive-loader-1.7.0.tgz#508df2779e04311aa2a38efb67cf743109afd681"
+  integrity sha512-N0cWuVqTRXRvkBxeMQcy/OF2l7GN8rmni5EzR3HpwR+iU2ckYPnziceojcxvvxQ5NqZg1QfEW0tycQgHp+e+Nw==
   dependencies:
     loader-utils "^2.0.0"
 
