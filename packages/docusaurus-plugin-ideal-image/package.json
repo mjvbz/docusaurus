@@ -23,7 +23,7 @@
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.15",
     "@docusaurus/lqip-loader": "2.0.0-beta.15",
-    "@docusaurus/responsive-loader": "1.5.0",
+    "@docusaurus/responsive-loader": "1.7.0",
     "@docusaurus/theme-translations": "2.0.0-beta.15",
     "@docusaurus/utils-validation": "2.0.0-beta.15",
     "@endiliey/react-ideal-image": "^0.0.11",
