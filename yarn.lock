@@ -2659,10 +2659,10 @@
     npmlog "^4.1.2"
     write-file-atomic "^3.0.3"
 
-"@mapbox/hast-util-to-jsx@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@mapbox/hast-util-to-jsx/-/hast-util-to-jsx-1.1.0.tgz#fdfef81069974b906dbc10d3307820ebda16e71a"
-  integrity sha512-VvtIstB/gOLwtHJL4VjS910YGwTS6bEQ5wRQfX0E/Eo1HV4lV5QvT9BDSxNh4RN3HEwWQNZIRuVlL1pFH9tmWA==
+"@mapbox/hast-util-to-jsx@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@mapbox/hast-util-to-jsx/-/hast-util-to-jsx-2.0.0.tgz#17b25cca42015d8d3f6f241de4f068f36975a6e7"
+  integrity sha512-o+2fGJo3xdqHOw3Y4hioS1qg/Bjh6NR80cJToTBRx682gLs1rttyyJTpYwi+AWFajPNaVxymGDnwYOmVqAAZSA==
   dependencies:
     kebab-case "^1.0.0"
     postcss "^7.0.39"
