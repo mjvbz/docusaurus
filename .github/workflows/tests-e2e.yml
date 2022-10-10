@@ -21,7 +21,7 @@ jobs:
       matrix:
         node: ['14', '16', '17']
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.1.0
       - name: Use Node.js ${{ matrix.node }}
         uses: actions/setup-node@v2
         with:
@@ -55,7 +55,7 @@ jobs:
       matrix:
         nodeLinker: [pnp, node-modules]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.1.0
       - name: Use Node.js 16
         uses: actions/setup-node@v2
         with:
@@ -105,7 +105,7 @@ jobs:
     timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.1.0
       - name: Use Node.js 16
         uses: actions/setup-node@v2
         with:
@@ -136,7 +136,7 @@ jobs:
     timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.1.0
       - name: Use Node.js 16
         uses: actions/setup-node@v2
         with:
