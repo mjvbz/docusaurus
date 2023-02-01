@@ -51,7 +51,7 @@
     "@slorber/static-site-generator-webpack-plugin": "^4.0.1",
     "@svgr/webpack": "^6.2.1",
     "autoprefixer": "^10.4.2",
-    "babel-loader": "^8.2.3",
+    "babel-loader": "^9.1.2",
     "babel-plugin-dynamic-import-node": "2.3.0",
     "boxen": "^5.0.1",
     "chokidar": "^3.5.3",
